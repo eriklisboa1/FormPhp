@@ -1,0 +1,41 @@
+body{
+    
+    background-image: url('maxresdefault.jpg');
+    text-align:center;
+     padding: auto;
+     background-repeat: no-repeat;
+     background-size: cover;
+    color: white;
+}
+header{
+    color: #ffffff;
+}
+.s1{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.meio{
+    width: 250%;
+    color: white;
+}
+section{
+    text-align: center;
+    color: #ffffff;
+}
+form{
+    color: white;
+}
+input{
+    border-radius: 200px;
+    width: 100%;
+}
+button{
+    width: 80%;
+    border-radius: 100px;
+}
+footer{
+    background-color: rgb(73, 71, 69);
+    color: #ffffff;
+    
+}
